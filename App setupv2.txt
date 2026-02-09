@@ -1,0 +1,261 @@
+App setupv2
+# ===== CELL 1: Check GPU =====
+!nvidia-smi
+
+# ===== CELL 2: Mount Google Drive =====
+from google.colab import drive
+drive.mount('/content/drive')
+
+# Change this path to your project folder
+%cd /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/
+!pwd
+!ls -la
+
+# ===== CELL 3: Install Dependencies =====
+!pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+!pip install 'git+https://github.com/facebookresearch/detectron2.git'
+!pip install opencv-python Shapely timm einops pyclipper scipy natsort lmdb pillow nltk fire tensorboard tqdm thop==0.0.31.post2005241907
+
+# ===== CELL 4: ABCNetv2 Setup =====
+# Patch BezierAlign and ml_nms as in your previous notebook (copy the patch code here)
+# Then build the project
+%cd ABCNetv2
+!python setup.py build develop
+%cd ..
+
+# ===== CELL 5: Download Pretrained Models =====
+import os
+
+# ABCNetv2
+abc_model_path = 'ABCNetv2/ABCNetv2.pth'
+if not os.path.exists(abc_model_path):
+    !wget -O {abc_model_path} "https://www.dropbox.com/s/cg63gsnf7741vjw/ABCNetv2.pth?dl=1"
+
+# TRBA
+trba_model_path = 'TRBA/TRBA_Rot+SAR.pth'
+if not os.path.exists(trba_model_path):
+    !wget -O {trba_model_path} "https://www.dropbox.com/s/ztbwhhimd34dryx/TRBA_Rot%2BSAR.pth?dl=1"
+
+#=== Cell 8.5
+# Force reinstall rapidfuzz
+!pip install --upgrade --force-reinstall rapidfuzz
+
+# Then import
+import os
+import json
+from rapidfuzz import process, fuzz
+
+#=================================
+!pip install flask-cors
+
+# ===== ADD THIS AS CELL 10: Flask Backend Server =====
+
+from flask import Flask, request, jsonify, send_from_directory
+from flask_cors import CORS
+from werkzeug.utils import secure_filename
+import os
+import json
+import re
+from rapidfuzz import process, fuzz
+import subprocess
+import tempfile
+import shutil
+
+app = Flask(__name__)
+CORS(app)
+
+# Paths - reusing your existing setup
+BASE_PATH = '/content/drive/MyDrive/COO-Comic-Onomatopoeia-main'
+UPLOAD_FOLDER = '/content/temp_uploads'
+OUTPUT_FOLDER = '/content/temp_outputs'
+SFX_DICT_PATH = f'{BASE_PATH}/TRBA/sfx_dict.json'
+
+os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+
+# Load the dictionary you already loaded in Cell 9
+with open(SFX_DICT_PATH, 'r', encoding='utf-8') as f:
+    jp_to_en_dict = json.load(f)
+
+def normalize_sfx(sfx):
+    """Same normalization function from Cell 9"""
+    sfx = sfx.strip()
+    sfx = sfx.replace('〜', '~')
+    sfx = sfx.replace('…', '…')
+    sfx = sfx.replace('ー', '-')
+    sfx = re.sub(r'\s+', '', sfx)
+    sfx = re.sub(r'(.)\1+', r'\1', sfx)
+    return sfx
+
+@app.route('/health', methods=['GET'])
+def health():
+    return jsonify({'status': 'ok', 'message': 'Manga SFX Backend is running!'})
+
+@app.route('/process', methods=['POST'])
+def process_images():
+    try:
+        # Clear temp folders
+        for folder in [UPLOAD_FOLDER, OUTPUT_FOLDER]:
+            if os.path.exists(folder):
+                shutil.rmtree(folder)
+            os.makedirs(folder)
+
+        # Save uploaded files
+        files = request.files.getlist('images')
+        if not files:
+            return jsonify({'error': 'No images provided'}), 400
+
+        print(f"📥 Received {len(files)} images")
+
+        for file in files:
+            filename = secure_filename(file.filename)
+            file.save(os.path.join(UPLOAD_FOLDER, filename))
+
+        # Step 1: Run ABCNetv2 (same as Cell 7)
+        print("🔍 Running ABCNetv2 detection...")
+        abc_result = subprocess.run(
+            ['python', 'ABCNetv2/demo/demo_copy.py',
+             '--config-file', 'ABCNetv2/configs/eval.yaml',
+             '--input', UPLOAD_FOLDER,
+             '--output', OUTPUT_FOLDER,
+             '--opts', 'MODEL.WEIGHTS', 'ABCNetv2/ABCNetv2.pth'],
+            cwd=BASE_PATH,
+            capture_output=True,
+            text=True
+        )
+
+        if abc_result.returncode != 0:
+            return jsonify({'error': f'ABCNetv2 failed: {abc_result.stderr}'}), 500
+
+        # Step 1b: Collect up to 3 annotated images for frontend preview
+        annotated_images = sorted([
+            f for f in os.listdir(OUTPUT_FOLDER)
+            if f.lower().endswith(('.png', '.jpg', '.jpeg'))
+          ])
+
+        preview_images = annotated_images[:3]  # take first 3 images
+
+        # Step 2: Run TRBA on crops (same as Cell 8)
+        print("📝 Running TRBA recognition...")
+        crops_folder = os.path.join(OUTPUT_FOLDER, 'crops')
+
+        if not os.path.exists(crops_folder):
+            return jsonify({'error': 'No text detected in images'}), 400
+
+        crop_folders = [
+            os.path.join(crops_folder, d)
+            for d in os.listdir(crops_folder)
+            if os.path.isdir(os.path.join(crops_folder, d))
+        ]
+
+        # Create temp file for TRBA output
+        trba_output_path = tempfile.mktemp(suffix='.txt')
+
+        for folder in crop_folders:
+            with open(trba_output_path, 'a') as f:
+                subprocess.run(
+                    ['python3', f'{BASE_PATH}/TRBA/demo.py',
+                     '--model_name', 'TRBA',
+                     '--SARdecode',
+                     '--image_folder', folder,
+                     '--saved_model', f'{BASE_PATH}/TRBA/TRBA_Rot+SAR.pth',
+                     '--char_set', f'{BASE_PATH}/COO-data/Onomatopoeia_train_char_set.txt'],
+                    stdout=f,
+                    stderr=subprocess.DEVNULL
+                )
+
+        # Step 3: Translate (same as Cell 9)
+        print("🌐 Translating SFX...")
+        results = []
+
+        with open(trba_output_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+
+                parts = line.split()
+                if len(parts) < 2:
+                    continue
+
+                image_path = parts[0]
+                jp_sfx = normalize_sfx(parts[1])
+
+                # Fuzzy match (same logic as Cell 9)
+                result = process.extractOne(jp_sfx, jp_to_en_dict.keys(), scorer=fuzz.ratio)
+                if result is None:
+                    en_sfx = "UNKNOWN"
+                else:
+                    match, score = result[0], result[1]
+                    en_sfx = jp_to_en_dict[match] if score >= 80 else "UNKNOWN"
+
+                results.append({
+                    'image': os.path.basename(image_path),
+                    'japanese': jp_sfx,
+                    'english': en_sfx
+                })
+
+        # Cleanup
+        if os.path.exists(trba_output_path):
+            os.unlink(trba_output_path)
+
+        print(f"✅ Complete! Found {len(results)} SFX")
+        return jsonify({
+            'results': results,
+            'previews': preview_images  # annotated ABCNetv2 images
+        })
+
+    except Exception as e:
+        print(f"❌ Error: {str(e)}")
+        import traceback
+        traceback.print_exc()
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/temp_outputs/<path:filename>')
+def serve_output_image(filename):
+    return send_from_directory(OUTPUT_FOLDER, filename)
+
+
+# ===== CELL 11: Start Server with ngrok =====
+# Install Flask and ngrok
+!pip install flask flask-cors pyngrok
+
+# Import and start
+from pyngrok import ngrok
+import threading
+
+ngrok.set_auth_token("37IRIez3s5HM2YQ1zjKCjVM8K6s_mXEdRTQPY1DzCTwtCLQv")  # <-- ADD THIS
+
+
+# Kill any existing ngrok tunnels
+ngrok.kill()
+
+# Start Flask in background thread
+def run_flask():
+    from __main__ import app  # Import the app we created in Cell 10
+    app.run(host='0.0.0.0', port=5000, debug=False)
+
+flask_thread = threading.Thread(target=run_flask, daemon=True)
+flask_thread.start()
+
+import time
+time.sleep(2)  # Give Flask a moment to start
+
+# Start ngrok tunnel
+public_url = ngrok.connect(5000)
+print('=' * 60)
+print('🚀 MANGA SFX BACKEND IS RUNNING!')
+print('=' * 60)
+print(f'📡 Public URL: {public_url}')
+print('=' * 60)
+print('📋 Copy the URL above and paste it in the frontend app')
+print('💡 Keep this cell running while using the app')
+print('=' * 60)
+
+# Keep the cell running
+try:
+    while True:
+        time.sleep(1)
+except KeyboardInterrupt:
+    print('\n🛑 Shutting down...')
+    ngrok.kill()

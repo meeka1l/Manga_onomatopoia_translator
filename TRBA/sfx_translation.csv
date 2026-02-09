@@ -1,0 +1,48 @@
+image,jp,normalized,en,confidence
+will,create,create,UNKNOWN,4.0
+and,characters:,characters:,UNKNOWN,187.0
+input,parameters,parameters,UNKNOWN,32.0
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png,キッ,キッ,sharp cut / sudden strike,0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png,オオオオン,オオン,low rumble / distant roar,0.978
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png,コシ,コシ,thump / low impact,0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png,シュル,シュル,sliding / whoosh (CHECK),0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png,ズ,ズ,buzz / small impact,1.0
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png,ドギャ,ドギャ,explosive impact / smash (CHECK),0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png,コヒュー,コヒュー,swoosh / fast movement (CHECK),0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png,ブ,ブ,short impact / pop,0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png,オオオ,オオ,UNKNOWN,0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png,あり?,あり?,surprise / questioning sound (CHECK),0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png,ズバッ,ズバッ,slash / cutting sound (CHECK),0.1433
+will,create,create,UNKNOWN,4.0
+and,characters:,characters:,UNKNOWN,187.0
+input,parameters,parameters,UNKNOWN,32.0
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png,ヒュウ・・・,ヒュウ,whoosh / whistle,1.0
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png,ふらあ・・・,ふらあ,stagger / woozy / dizzy (CHECK),0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png,ザン,ザン,slash / chopping sound,0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png,アァ,アァ,pain / scream,0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png,アアア,アア,Ahh / vocal exclamation (CHECK),0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png,ア,ア,short exclamation,1.0
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png,ア,ア,short exclamation,1.0
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png,ア,ア,short exclamation,1.0
+will,create,create,UNKNOWN,4.0
+and,characters:,characters:,UNKNOWN,187.0
+input,parameters,parameters,UNKNOWN,32.0
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png,バ,バ,impact / strike,1.0
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png,ドキ,ドキ,heart thump / tension,0.999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png,ビシ,ビシ,snap / strike,0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png,バシィ,バシィ,smack / hit,0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png,ざっ!,ざっ,swish / rustle / quick movement,1.0
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png,バ,バ,impact / strike,1.0
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png,バァン,バァン,bang / explosion (CHECK),0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png,タン,タン,tap / stomp,1.0
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png,ッ,ッ,short sharp sound,0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png,ひゃあああ,ひゃああ,aaah! / eek! / yikes! (CHECK),0.0244
+will,create,create,UNKNOWN,4.0
+and,characters:,characters:,UNKNOWN,187.0
+input,parameters,parameters,UNKNOWN,32.0
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_0.png,ポン,ポン,pop / light hit,1.0
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_1.png,じーん,じーん,emotion / touched feeling,0.9878
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_2.png,はっ,はっ,sharp intake / surprise,1.0
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_3.png,げふ,げふ,cough / gag,0.8916
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_4.png,ほっ,ほっ,relief sigh,1.0
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_5.png,げ・・,げ,ugh / gasp / yikes (CHECK),0.7613

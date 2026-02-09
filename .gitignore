@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# Large Data & Weights (Keep these in Drive!)
+weights/
+COO-data/
+ABCNetv2/ABCNetv2.pth
+TRBA/TRBA_Rot+SAR.pth
+output/
+temp_uploads/
+temp_outputs/
+*.pth
+*.tar
+*.zip
+*.rar
+
+# OS
+.DS_Store
+Thumbs.db

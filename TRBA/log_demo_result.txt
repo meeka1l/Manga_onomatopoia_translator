@@ -1,0 +1,1614 @@
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/1-0.jpg       	バッ                       	1.0000
+demo_image/2-0.jpg       	ザッ                       	0.9406
+demo_image/2-2.jpg       	ばき                       	0.4849
+demo_image/2-4.jpg       	ドドド                      	1.0000
+demo_image/3-3.jpg       	ガラガラ                     	0.2308
+demo_image/5-6.jpg       	ドキュッ!                    	0.9752
+demo_image/5-10.jpg      	ぎゅっ                      	1.0000
+demo_image/6-0.jpg       	ごくっ・・・                   	0.9535
+demo_image/6-3.jpg       	ドーン                      	0.8542
+demo_image/6-4.jpg       	カチン                      	0.9998
+demo_image/LoveHina_vol14/1-0.jpg	バッ                       	1.0000
+demo_image/LoveHina_vol14/2-0.jpg	ザッ                       	0.9406
+demo_image/LoveHina_vol14/2-2.jpg	ばき                       	0.4849
+demo_image/LoveHina_vol14/2-4.jpg	ドドド                      	1.0000
+demo_image/LoveHina_vol14/3-3.jpg	ガラガラ                     	0.2308
+demo_image/LoveHina_vol14/5-6.jpg	ドキュッ!                    	0.9752
+demo_image/LoveHina_vol14/5-10.jpg	ぎゅっ                      	1.0000
+demo_image/LoveHina_vol14/6-0.jpg	ごくっ・・・                   	0.9535
+demo_image/LoveHina_vol14/6-3.jpg	ドーン                      	0.8542
+demo_image/LoveHina_vol14/6-4.jpg	カチン                      	0.9998
+demo_image/ParaisoRoad/38-0.jpg	ガシャッ                     	0.9679
+demo_image/ParaisoRoad/62-2.jpg	ムウ・・・                    	0.7145
+demo_image/ParaisoRoad/88-2.jpg	ドオオオオ                    	0.4800
+demo_image/SaladDays_vol18/53-0.jpg	パタンッ                     	0.2669
+demo_image/SaladDays_vol18/68-1.jpg	ドサワ・・・                   	0.2799
+demo_image/SaladDays_vol18/74-0.jpg	ガガガガガガ                   	0.1902
+demo_image/SaladDays_vol18/74-1.jpg	ドカ!                      	0.1763
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/1-0.jpg       	バッ                       	1.0000
+demo_image/2-0.jpg       	ザッ                       	0.9406
+demo_image/2-2.jpg       	ばき                       	0.4849
+demo_image/2-4.jpg       	ドドド                      	1.0000
+demo_image/3-3.jpg       	ガラガラ                     	0.2308
+demo_image/5-6.jpg       	ドキュッ!                    	0.9752
+demo_image/5-10.jpg      	ぎゅっ                      	1.0000
+demo_image/6-0.jpg       	ごくっ・・・                   	0.9535
+demo_image/6-3.jpg       	ドーン                      	0.8542
+demo_image/6-4.jpg       	カチン                      	0.9998
+demo_image/LoveHina_vol14/1-0.jpg	バッ                       	1.0000
+demo_image/LoveHina_vol14/2-0.jpg	ザッ                       	0.9406
+demo_image/LoveHina_vol14/2-2.jpg	ばき                       	0.4849
+demo_image/LoveHina_vol14/2-4.jpg	ドドド                      	1.0000
+demo_image/LoveHina_vol14/3-3.jpg	ガラガラ                     	0.2308
+demo_image/LoveHina_vol14/5-6.jpg	ドキュッ!                    	0.9752
+demo_image/LoveHina_vol14/5-10.jpg	ぎゅっ                      	1.0000
+demo_image/LoveHina_vol14/6-0.jpg	ごくっ・・・                   	0.9535
+demo_image/LoveHina_vol14/6-3.jpg	ドーン                      	0.8542
+demo_image/LoveHina_vol14/6-4.jpg	カチン                      	0.9998
+demo_image/ParaisoRoad/38-0.jpg	ガシャッ                     	0.9679
+demo_image/ParaisoRoad/62-2.jpg	ムウ・・・                    	0.7145
+demo_image/ParaisoRoad/88-2.jpg	ドオオオオ                    	0.4800
+demo_image/SaladDays_vol18/53-0.jpg	パタンッ                     	0.2669
+demo_image/SaladDays_vol18/68-1.jpg	ドサワ・・・                   	0.2799
+demo_image/SaladDays_vol18/74-0.jpg	ガガガガガガ                   	0.1902
+demo_image/SaladDays_vol18/74-1.jpg	ドカ!                      	0.1763
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/1-0.jpg       	バッ                       	1.0000
+demo_image/2-0.jpg       	ザッ                       	0.9406
+demo_image/2-2.jpg       	ばき                       	0.4849
+demo_image/2-4.jpg       	ドドド                      	1.0000
+demo_image/3-3.jpg       	ガラガラ                     	0.2308
+demo_image/5-6.jpg       	ドキュッ!                    	0.9752
+demo_image/5-10.jpg      	ぎゅっ                      	1.0000
+demo_image/6-0.jpg       	ごくっ・・・                   	0.9535
+demo_image/6-3.jpg       	ドーン                      	0.8542
+demo_image/6-4.jpg       	カチン                      	0.9998
+demo_image/LoveHina_vol14/1-0.jpg	バッ                       	1.0000
+demo_image/LoveHina_vol14/2-0.jpg	ザッ                       	0.9406
+demo_image/LoveHina_vol14/2-2.jpg	ばき                       	0.4849
+demo_image/LoveHina_vol14/2-4.jpg	ドドド                      	1.0000
+demo_image/LoveHina_vol14/3-3.jpg	ガラガラ                     	0.2308
+demo_image/LoveHina_vol14/5-6.jpg	ドキュッ!                    	0.9752
+demo_image/LoveHina_vol14/5-10.jpg	ぎゅっ                      	1.0000
+demo_image/LoveHina_vol14/6-0.jpg	ごくっ・・・                   	0.9535
+demo_image/LoveHina_vol14/6-3.jpg	ドーン                      	0.8542
+demo_image/LoveHina_vol14/6-4.jpg	カチン                      	0.9998
+demo_image/ParaisoRoad/38-0.jpg	ガシャッ                     	0.9679
+demo_image/ParaisoRoad/62-2.jpg	ムウ・・・                    	0.7145
+demo_image/ParaisoRoad/88-2.jpg	ドオオオオ                    	0.4800
+demo_image/SaladDays_vol18/53-0.jpg	パタンッ                     	0.2669
+demo_image/SaladDays_vol18/68-1.jpg	ドサワ・・・                   	0.2799
+demo_image/SaladDays_vol18/74-0.jpg	ガガガガガガ                   	0.1902
+demo_image/SaladDays_vol18/74-1.jpg	ドカ!                      	0.1763
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/1-0.jpg       	バッ                       	1.0000
+demo_image/2-0.jpg       	ザッ                       	0.9406
+demo_image/2-2.jpg       	ばき                       	0.4849
+demo_image/2-4.jpg       	ドドド                      	1.0000
+demo_image/3-3.jpg       	ガラガラ                     	0.2308
+demo_image/5-6.jpg       	ドキュッ!                    	0.9752
+demo_image/5-10.jpg      	ぎゅっ                      	1.0000
+demo_image/6-0.jpg       	ごくっ・・・                   	0.9535
+demo_image/6-3.jpg       	ドーン                      	0.8542
+demo_image/6-4.jpg       	カチン                      	0.9998
+demo_image/LoveHina_vol14/1-0.jpg	バッ                       	1.0000
+demo_image/LoveHina_vol14/2-0.jpg	ザッ                       	0.9406
+demo_image/LoveHina_vol14/2-2.jpg	ばき                       	0.4849
+demo_image/LoveHina_vol14/2-4.jpg	ドドド                      	1.0000
+demo_image/LoveHina_vol14/3-3.jpg	ガラガラ                     	0.2308
+demo_image/LoveHina_vol14/5-6.jpg	ドキュッ!                    	0.9752
+demo_image/LoveHina_vol14/5-10.jpg	ぎゅっ                      	1.0000
+demo_image/LoveHina_vol14/6-0.jpg	ごくっ・・・                   	0.9535
+demo_image/LoveHina_vol14/6-3.jpg	ドーン                      	0.8542
+demo_image/LoveHina_vol14/6-4.jpg	カチン                      	0.9998
+demo_image/ParaisoRoad/38-0.jpg	ガシャッ                     	0.9679
+demo_image/ParaisoRoad/62-2.jpg	ムウ・・・                    	0.7145
+demo_image/ParaisoRoad/88-2.jpg	ドオオオオ                    	0.4800
+demo_image/SaladDays_vol18/53-0.jpg	パタンッ                     	0.2669
+demo_image/SaladDays_vol18/68-1.jpg	ドサワ・・・                   	0.2799
+demo_image/SaladDays_vol18/74-0.jpg	ガガガガガガ                   	0.1902
+demo_image/SaladDays_vol18/74-1.jpg	ドカ!                      	0.1763
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/1-0.jpg       	バッ                       	1.0000
+demo_image/2-0.jpg       	ザッ                       	0.9406
+demo_image/2-2.jpg       	ばき                       	0.4849
+demo_image/2-4.jpg       	ドドド                      	1.0000
+demo_image/3-3.jpg       	ガラガラ                     	0.2308
+demo_image/5-6.jpg       	ドキュッ!                    	0.9752
+demo_image/5-10.jpg      	ぎゅっ                      	1.0000
+demo_image/6-0.jpg       	ごくっ・・・                   	0.9535
+demo_image/6-3.jpg       	ドーン                      	0.8542
+demo_image/6-4.jpg       	カチン                      	0.9998
+demo_image/LoveHina_vol14/1-0.jpg	バッ                       	1.0000
+demo_image/LoveHina_vol14/2-0.jpg	ザッ                       	0.9406
+demo_image/LoveHina_vol14/2-2.jpg	ばき                       	0.4849
+demo_image/LoveHina_vol14/2-4.jpg	ドドド                      	1.0000
+demo_image/LoveHina_vol14/3-3.jpg	ガラガラ                     	0.2308
+demo_image/LoveHina_vol14/5-6.jpg	ドキュッ!                    	0.9752
+demo_image/LoveHina_vol14/5-10.jpg	ぎゅっ                      	1.0000
+demo_image/LoveHina_vol14/6-0.jpg	ごくっ・・・                   	0.9535
+demo_image/LoveHina_vol14/6-3.jpg	ドーン                      	0.8542
+demo_image/LoveHina_vol14/6-4.jpg	カチン                      	0.9998
+demo_image/ParaisoRoad/38-0.jpg	ガシャッ                     	0.9679
+demo_image/ParaisoRoad/62-2.jpg	ムウ・・・                    	0.7145
+demo_image/ParaisoRoad/88-2.jpg	ドオオオオ                    	0.4800
+demo_image/SaladDays_vol18/53-0.jpg	パタンッ                     	0.2669
+demo_image/SaladDays_vol18/68-1.jpg	ドサワ・・・                   	0.2799
+demo_image/SaladDays_vol18/74-0.jpg	ガガガガガガ                   	0.1902
+demo_image/SaladDays_vol18/74-1.jpg	ドカ!                      	0.1763
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/LoveHina_vol14/1-0.jpg	バッ                       	1.0000
+demo_image/LoveHina_vol14/2-0.jpg	ザッ                       	0.9406
+demo_image/LoveHina_vol14/2-2.jpg	ばき                       	0.4849
+demo_image/LoveHina_vol14/2-4.jpg	ドドド                      	1.0000
+demo_image/LoveHina_vol14/3-3.jpg	ガラガラ                     	0.2307
+demo_image/LoveHina_vol14/5-6.jpg	ドキュッ!                    	0.9752
+demo_image/LoveHina_vol14/5-10.jpg	ぎゅっ                      	1.0000
+demo_image/LoveHina_vol14/6-0.jpg	ごくっ・・・                   	0.9535
+demo_image/LoveHina_vol14/6-3.jpg	ドーン                      	0.8542
+demo_image/LoveHina_vol14/6-4.jpg	カチン                      	0.9998
+demo_image/ParaisoRoad/38-0.jpg	ガシャッ                     	0.9679
+demo_image/ParaisoRoad/62-2.jpg	ムウ・・・                    	0.7145
+demo_image/ParaisoRoad/88-2.jpg	ドオオオオ                    	0.4800
+demo_image/SaladDays_vol18/53-0.jpg	パタンッ                     	0.2670
+demo_image/SaladDays_vol18/68-1.jpg	ドサワ・・・                   	0.2799
+demo_image/SaladDays_vol18/74-0.jpg	ガガガガガガ                   	0.1902
+demo_image/SaladDays_vol18/74-1.jpg	ドカ!                      	0.1763
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/1.png         	カッ                       	1.0000
+demo_image/LoveHina_vol14/1-0.jpg	バッ                       	1.0000
+demo_image/LoveHina_vol14/2-0.jpg	ザッ                       	0.9406
+demo_image/LoveHina_vol14/2-2.jpg	ばき                       	0.4849
+demo_image/LoveHina_vol14/2-4.jpg	ドドド                      	1.0000
+demo_image/LoveHina_vol14/3-3.jpg	ガラガラ                     	0.2307
+demo_image/LoveHina_vol14/5-6.jpg	ドキュッ!                    	0.9752
+demo_image/LoveHina_vol14/5-10.jpg	ぎゅっ                      	1.0000
+demo_image/LoveHina_vol14/6-0.jpg	ごくっ・・・                   	0.9535
+demo_image/LoveHina_vol14/6-3.jpg	ドーン                      	0.8542
+demo_image/LoveHina_vol14/6-4.jpg	カチン                      	0.9998
+demo_image/ParaisoRoad/38-0.jpg	ガシャッ                     	0.9679
+demo_image/ParaisoRoad/62-2.jpg	ムウ・・・                    	0.7145
+demo_image/ParaisoRoad/88-2.jpg	ドオオオオ                    	0.4800
+demo_image/SaladDays_vol18/53-0.jpg	パタンッ                     	0.2670
+demo_image/SaladDays_vol18/68-1.jpg	ドサワ・・・                   	0.2799
+demo_image/SaladDays_vol18/74-0.jpg	ガガガガガガ                   	0.1902
+demo_image/SaladDays_vol18/74-1.jpg	ドカ!                      	0.1763
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/1.png         	ザザザザザザザザ                 	0.2568
+demo_image/4.png         	ガン                       	0.7309
+demo_image/LoveHina_vol14/1-0.jpg	バッ                       	1.0000
+demo_image/LoveHina_vol14/2-0.jpg	ザッ                       	0.9406
+demo_image/LoveHina_vol14/2-2.jpg	ばき                       	0.4849
+demo_image/LoveHina_vol14/2-4.jpg	ドドド                      	1.0000
+demo_image/LoveHina_vol14/3-3.jpg	ガラガラ                     	0.2308
+demo_image/LoveHina_vol14/5-6.jpg	ドキュッ!                    	0.9752
+demo_image/LoveHina_vol14/5-10.jpg	ぎゅっ                      	1.0000
+demo_image/LoveHina_vol14/6-0.jpg	ごくっ・・・                   	0.9535
+demo_image/LoveHina_vol14/6-3.jpg	ドーン                      	0.8542
+demo_image/LoveHina_vol14/6-4.jpg	カチン                      	0.9998
+demo_image/ParaisoRoad/38-0.jpg	ガシャッ                     	0.9679
+demo_image/ParaisoRoad/62-2.jpg	ムウ・・・                    	0.7145
+demo_image/ParaisoRoad/88-2.jpg	ドオオオオ                    	0.4800
+demo_image/SaladDays_vol18/53-0.jpg	パタンッ                     	0.2669
+demo_image/SaladDays_vol18/68-1.jpg	ドサワ・・・                   	0.2799
+demo_image/SaladDays_vol18/74-0.jpg	ガガガガガガ                   	0.1902
+demo_image/SaladDays_vol18/74-1.jpg	ドカ!                      	0.1763
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_0.png	ポン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_1.png	じーん                      	0.9878
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_2.png	はっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_3.png	げふ                       	0.8916
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_4.png	ほっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_5.png	げ・・                      	0.7613
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_0.png	ポン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_1.png	じーん                      	0.9878
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_2.png	はっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_3.png	げふ                       	0.8916
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_4.png	ほっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_5.png	げ・・                      	0.7613
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_0.png	ポン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_1.png	じーん                      	0.9878
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_2.png	はっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_3.png	げふ                       	0.8916
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_4.png	ほっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_5.png	げ・・                      	0.7613
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_0.png	ポン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_1.png	じーん                      	0.9878
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_2.png	はっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_3.png	げふ                       	0.8916
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_4.png	ほっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_5.png	げ・・                      	0.7613
+
+use pretrained model TRBA_Rot+SAR.pth
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_0.png	ポン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_1.png	じーん                      	0.9878
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_2.png	はっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_3.png	げふ                       	0.8916
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_4.png	ほっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_5.png	げ・・                      	0.7613
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_0.png	ポン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_1.png	じーん                      	0.9878
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_2.png	はっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_3.png	げふ                       	0.8916
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_4.png	ほっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_5.png	げ・・                      	0.7613
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_0.png	ポン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_1.png	じーん                      	0.9878
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_2.png	はっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_3.png	げふ                       	0.8916
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_4.png	ほっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_5.png	げ・・                      	0.7613
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/LoveHina_vol14/1-0.jpg	バッ                       	1.0000
+demo_image/LoveHina_vol14/2-0.jpg	ザッ                       	0.9406
+demo_image/LoveHina_vol14/2-2.jpg	ばき                       	0.4849
+demo_image/LoveHina_vol14/2-4.jpg	ドドド                      	1.0000
+demo_image/LoveHina_vol14/3-3.jpg	ガラガラ                     	0.2307
+demo_image/LoveHina_vol14/5-6.jpg	ドキュッ!                    	0.9752
+demo_image/LoveHina_vol14/5-10.jpg	ぎゅっ                      	1.0000
+demo_image/LoveHina_vol14/6-0.jpg	ごくっ・・・                   	0.9535
+demo_image/LoveHina_vol14/6-3.jpg	ドーン                      	0.8542
+demo_image/LoveHina_vol14/6-4.jpg	カチン                      	0.9998
+demo_image/ParaisoRoad/38-0.jpg	ガシャッ                     	0.9679
+demo_image/ParaisoRoad/62-2.jpg	ムウ・・・                    	0.7145
+demo_image/ParaisoRoad/88-2.jpg	ドオオオオ                    	0.4800
+demo_image/SaladDays_vol18/53-0.jpg	パタンッ                     	0.2670
+demo_image/SaladDays_vol18/68-1.jpg	ドサワ・・・                   	0.2799
+demo_image/SaladDays_vol18/74-0.jpg	ガガガガガガ                   	0.1902
+demo_image/SaladDays_vol18/74-1.jpg	ドカ!                      	0.1763
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_0.png	ポン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_1.png	じーん                      	0.9878
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_2.png	はっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_3.png	げふ                       	0.8916
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_4.png	ほっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_5.png	げ・・                      	0.7613
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_0.png	ポン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_1.png	じーん                      	0.9878
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_2.png	はっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_3.png	げふ                       	0.8916
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_4.png	ほっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_5.png	げ・・                      	0.7613
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_0.png	ポン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_1.png	じーん                      	0.9878
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_2.png	はっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_3.png	げふ                       	0.8916
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_4.png	ほっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_5.png	げ・・                      	0.7613
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_0.png	ポン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_1.png	じーん                      	0.9878
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_2.png	はっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_3.png	げふ                       	0.8916
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_4.png	ほっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_5.png	げ・・                      	0.7613
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_0.png	ポン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_1.png	じーん                      	0.9878
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_2.png	はっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_3.png	げふ                       	0.8916
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_4.png	ほっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_5.png	げ・・                      	0.7613
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_0.png	ポン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_1.png	じーん                      	0.9878
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_2.png	はっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_3.png	げふ                       	0.8916
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_4.png	ほっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_5.png	げ・・                      	0.7613
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_0.png	キッ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_1.png	オオオオン                    	0.9780
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_2.png	コシ                       	0.9995
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_3.png	シュル                      	0.4278
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_4.png	ズ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_5.png	ドギャ                      	0.3542
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_6.png	コヒュー                     	0.6713
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_7.png	ブ                        	0.9863
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_8.png	オオオ                      	0.8553
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_9.png	あり?                      	0.6323
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/020/sfx_10.png	ズバッ                      	0.1433
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_0.png	ヒュウ・・・                   	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_1.png	ふらあ・・・                   	0.0472
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_2.png	ザン                       	0.9999
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_3.png	アァ                       	0.9534
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_4.png	アアア                      	0.3598
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_5.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_6.png	ア                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/018/sfx_7.png	ア                        	1.0000
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_0.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_1.png	ドキ                       	0.9990
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_2.png	ビシ                       	0.9998
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_3.png	バシィ                      	0.9996
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_4.png	ざっ!                      	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_5.png	バ                        	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_6.png	バァン                      	0.6766
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_7.png	タン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_8.png	ッ                        	0.8759
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/030/sfx_9.png	ひゃあああ                    	0.0244
+
+use pretrained model TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_0.png	ポン                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_1.png	じーん                      	0.9878
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_2.png	はっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_3.png	げふ                       	0.8916
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_4.png	ほっ                       	1.0000
+/content/drive/MyDrive/COO-Comic-Onomatopoeia-main/ABCNetv2/demo_results/test/crops/094/sfx_5.png	げ・・                      	0.7613
+

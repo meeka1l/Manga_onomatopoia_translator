@@ -1,0 +1,605 @@
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_results/test/crops/044/sfx_0.png	ペコッ                      	1.0000
+demo_results/test/crops/044/sfx_1.png	ズキ                       	0.6468
+demo_results/test/crops/044/sfx_2.png	ドキーン                     	0.4133
+demo_results/test/crops/044/sfx_3.png	ず~ん                      	1.0000
+demo_results/test/crops/044/sfx_4.png	ドキッ                      	0.9778
+demo_results/test/crops/044/sfx_5.png	メキ                       	0.9999
+demo_results/test/crops/044/sfx_6.png	ド                        	0.9247
+demo_results/test/crops/044/sfx_7.png	ド                        	0.5596
+demo_results/test/crops/044/sfx_8.png	ズサ                       	0.6429
+demo_results/test/crops/044/sfx_9.png	ドキ                       	0.8472
+demo_results/test/crops/044/sfx_10.png	ン                        	0.9687
+demo_results/test/crops/044/sfx_11.png	きゃー                      	0.7754
+demo_results/test/crops/044/sfx_12.png	スッ                       	0.9808
+demo_results/test/crops/044/sfx_13.png	はあ                       	1.0000
+demo_results/test/crops/044/sfx_14.png	ーと                       	0.9949
+demo_results/test/crops/044/sfx_15.png	ト                        	0.8148
+demo_results/test/crops/044/sfx_16.png	りっ                       	0.2918
+demo_results/test/crops/044/sfx_17.png	ザバッ                      	0.6160
+demo_results/test/crops/044/sfx_18.png	ぞ                        	0.8859
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_results/test/crops/079/sfx_0.png	ーっ                       	0.3206
+demo_results/test/crops/079/sfx_1.png	ザッ                       	0.9997
+demo_results/test/crops/079/sfx_2.png	ザザ                       	0.9951
+demo_results/test/crops/079/sfx_3.png	アサササササ                   	0.3677
+demo_results/test/crops/079/sfx_4.png	ガキガキガシ                   	0.2321
+demo_results/test/crops/079/sfx_5.png	へー                       	0.9977
+demo_results/test/crops/079/sfx_6.png	ー                        	0.9635
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_results/test/crops/087/sfx_0.png	ピク                       	1.0000
+demo_results/test/crops/087/sfx_1.png	・・・ぞ                     	0.4629
+demo_results/test/crops/087/sfx_2.png	キ                        	0.9929
+demo_results/test/crops/087/sfx_3.png	オゴ                       	0.9782
+demo_results/test/crops/087/sfx_4.png	オ                        	1.0000
+demo_results/test/crops/087/sfx_5.png	オオ                       	0.9997
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_results/test/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+demo_results/test/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+demo_results/test/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+demo_results/test/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+demo_results/test/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+demo_results/test/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/jbigiug/sfx_0.png	タタタタ                     	0.8723
+/content/temp_outputs/crops/jbigiug/sfx_1.png	うおおおおお                   	0.6226
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/033/sfx_0.png	ザッ                       	1.0000
+/content/temp_outputs/crops/033/sfx_1.png	ザッ                       	1.0000
+/content/temp_outputs/crops/033/sfx_2.png	ッ                        	1.0000
+/content/temp_outputs/crops/033/sfx_3.png	ダダダダン                    	0.2665
+/content/temp_outputs/crops/033/sfx_4.png	グ                        	0.9987
+/content/temp_outputs/crops/033/sfx_5.png	ポ                        	1.0000
+/content/temp_outputs/crops/033/sfx_6.png	オ                        	0.9998
+/content/temp_outputs/crops/033/sfx_7.png	カッ                       	0.7596
+/content/temp_outputs/crops/033/sfx_8.png	ふーっ                      	0.6165
+/content/temp_outputs/crops/033/sfx_9.png	はっ                       	1.0000
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/033/sfx_0.png	ザッ                       	1.0000
+/content/temp_outputs/crops/033/sfx_1.png	ザッ                       	1.0000
+/content/temp_outputs/crops/033/sfx_2.png	ッ                        	1.0000
+/content/temp_outputs/crops/033/sfx_3.png	ダダダダン                    	0.2665
+/content/temp_outputs/crops/033/sfx_4.png	グ                        	0.9987
+/content/temp_outputs/crops/033/sfx_5.png	ポ                        	1.0000
+/content/temp_outputs/crops/033/sfx_6.png	オ                        	0.9998
+/content/temp_outputs/crops/033/sfx_7.png	カッ                       	0.7596
+/content/temp_outputs/crops/033/sfx_8.png	ふーっ                      	0.6165
+/content/temp_outputs/crops/033/sfx_9.png	はっ                       	1.0000
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/006/sfx_0.png	ぐい                       	1.0000
+/content/temp_outputs/crops/006/sfx_1.png	ぐっ・                      	0.8902
+/content/temp_outputs/crops/006/sfx_2.png	カ                        	0.5709
+/content/temp_outputs/crops/006/sfx_3.png	ダン                       	0.9999
+/content/temp_outputs/crops/006/sfx_4.png	ッ                        	0.9992
+/content/temp_outputs/crops/006/sfx_5.png	ぐいっ                      	0.7432
+/content/temp_outputs/crops/006/sfx_6.png	ぐあん                      	0.5266
+/content/temp_outputs/crops/006/sfx_7.png	ぐぐ                       	0.9999
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/022/sfx_0.png	はっ                       	1.0000
+/content/temp_outputs/crops/022/sfx_1.png	しーん                      	1.0000
+/content/temp_outputs/crops/022/sfx_2.png	ダッ                       	1.0000
+/content/temp_outputs/crops/022/sfx_3.png	ぐったり                     	0.2184
+/content/temp_outputs/crops/022/sfx_4.png	ひく・・・                    	0.9986
+/content/temp_outputs/crops/022/sfx_5.png	にっ                       	1.0000
+/content/temp_outputs/crops/022/sfx_6.png	ピリピリー                    	0.6157
+/content/temp_outputs/crops/022/sfx_7.png	ヤん!                      	0.3619
+/content/temp_outputs/crops/022/sfx_8.png	バッ                       	0.8014
+/content/temp_outputs/crops/022/sfx_9.png	オ                        	0.7202
+/content/temp_outputs/crops/022/sfx_10.png	オオ                       	0.9989
+/content/temp_outputs/crops/022/sfx_11.png	・・・・                     	0.9017
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/opm_sfx/sfx_0.png	バキ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_1.png	バッ                       	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_2.png	バキ                       	0.9928
+/content/temp_outputs/crops/opm_sfx/sfx_3.png	バ                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_4.png	ド                        	1.0000
+/content/temp_outputs/crops/opm_sfx/sfx_5.png	!                        	0.9987
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/cell_manga_DBZ/sfx_0.png	ゴゴゴゴゴ                    	0.7786
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/058/sfx_0.png	パチ                       	1.0000
+/content/temp_outputs/crops/058/sfx_1.png	パチ                       	1.0000
+/content/temp_outputs/crops/058/sfx_2.png	パチ                       	1.0000
+/content/temp_outputs/crops/058/sfx_3.png	パチ                       	0.9999
+/content/temp_outputs/crops/058/sfx_4.png	さぁ                       	0.4206
+/content/temp_outputs/crops/058/sfx_5.png	パチ                       	1.0000
+/content/temp_outputs/crops/058/sfx_6.png	おろ                       	0.8657
+/content/temp_outputs/crops/058/sfx_7.png	パチ                       	1.0000
+/content/temp_outputs/crops/058/sfx_8.png	ん                        	1.0000
+/content/temp_outputs/crops/058/sfx_9.png	パチ                       	1.0000
+/content/temp_outputs/crops/058/sfx_10.png	あお                       	0.9999
+/content/temp_outputs/crops/058/sfx_11.png	パチ                       	1.0000
+/content/temp_outputs/crops/058/sfx_12.png	ギィ                       	0.8064
+/content/temp_outputs/crops/058/sfx_13.png	びー                       	0.5554
+/content/temp_outputs/crops/058/sfx_14.png	パチ                       	1.0000
+/content/temp_outputs/crops/058/sfx_15.png	ぼこ                       	0.9659
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+
+use pretrained model /content/drive/MyDrive/COO-Comic-Onomatopoeia-main/TRBA/TRBA_Rot+SAR.pth
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/content/temp_outputs/crops/Illustrationtets/sfx_0.png	カッ                       	1.0000
+

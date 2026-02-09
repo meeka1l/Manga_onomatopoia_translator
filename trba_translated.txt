@@ -1,0 +1,58 @@
+/usr/local/lib/python3.12/dist-packages/torch/utils/data/dataloader.py:627: | UserWarning: → UNKNOWN
+# | of → UNKNOWN
+model | input → UNKNOWN
+loading | pretrained → UNKNOWN
+image_path | predicted_labels → UNKNOWN
+demo_results/test/crops/044/sfx_0.png | ペコッ → nod / small impact
+demo_results/test/crops/044/sfx_1.png | ズキ → throb / ache
+demo_results/test/crops/044/sfx_2.png | ドキ-ン → heart thump / tension
+demo_results/test/crops/044/sfx_3.png | ず~ん → heavy thud / rumble
+demo_results/test/crops/044/sfx_4.png | ドキッ → heart skip / shock
+demo_results/test/crops/044/sfx_5.png | メキ → crack / snap
+demo_results/test/crops/044/sfx_6.png | ド → thud / boom
+demo_results/test/crops/044/sfx_7.png | ド → thud / boom
+demo_results/test/crops/044/sfx_8.png | ズサ → swoosh / fast movement
+demo_results/test/crops/044/sfx_9.png | ドキ → heart thump / tension
+demo_results/test/crops/044/sfx_10.png | ン → short exhale / nasal sound
+demo_results/test/crops/044/sfx_11.png | きゃ- → scream / yell
+demo_results/test/crops/044/sfx_12.png | スッ → swift movement / whoosh
+demo_results/test/crops/044/sfx_13.png | はあ → sigh / relief
+demo_results/test/crops/044/sfx_14.png | -と → pop / tap
+demo_results/test/crops/044/sfx_15.png | ト → tap / light strike
+demo_results/test/crops/044/sfx_16.png | りっ → quick motion / sudden sound
+demo_results/test/crops/044/sfx_17.png | ザバッ → whoosh / sudden movement
+demo_results/test/crops/044/sfx_18.png | ぞ → emphasis / attention
+/usr/local/lib/python3.12/dist-packages/torch/utils/data/dataloader.py:627: | UserWarning: → UNKNOWN
+# | of → UNKNOWN
+model | input → UNKNOWN
+loading | pretrained → UNKNOWN
+image_path | predicted_labels → UNKNOWN
+demo_results/test/crops/079/sfx_0.png | -っ → short sharp sound
+demo_results/test/crops/079/sfx_1.png | ザッ → rustle / footsteps
+demo_results/test/crops/079/sfx_2.png | ザ → sharp impact / rustle
+demo_results/test/crops/079/sfx_3.png | アサ → vocal exclamation / yell
+demo_results/test/crops/079/sfx_4.png | ガキガキガシ → scratching / grinding noise
+demo_results/test/crops/079/sfx_5.png | へ- → grunt / exhale
+demo_results/test/crops/079/sfx_6.png | - → neutral sound / pause
+/usr/local/lib/python3.12/dist-packages/torch/utils/data/dataloader.py:627: | UserWarning: → UNKNOWN
+# | of → UNKNOWN
+model | input → UNKNOWN
+loading | pretrained → UNKNOWN
+image_path | predicted_labels → UNKNOWN
+demo_results/test/crops/087/sfx_0.png | ピク → twitch / small throb
+demo_results/test/crops/087/sfx_1.png | ・ぞ → murmur / soft emphasis
+demo_results/test/crops/087/sfx_2.png | キ → sharp / sudden impact
+demo_results/test/crops/087/sfx_3.png | オゴ → groan / low rumble
+demo_results/test/crops/087/sfx_4.png | オ → shout / exclamation
+demo_results/test/crops/087/sfx_5.png | オ → shout / exclamation
+/usr/local/lib/python3.12/dist-packages/torch/utils/data/dataloader.py:627: | UserWarning: → UNKNOWN
+# | of → UNKNOWN
+model | input → UNKNOWN
+loading | pretrained → UNKNOWN
+image_path | predicted_labels → UNKNOWN
+demo_results/test/crops/opm_sfx/sfx_0.png | バキ → crack / snap / impact
+demo_results/test/crops/opm_sfx/sfx_1.png | バッ → whoosh / sudden movement
+demo_results/test/crops/opm_sfx/sfx_2.png | バキ → crack / snap / impact
+demo_results/test/crops/opm_sfx/sfx_3.png | バ → impact / strike
+demo_results/test/crops/opm_sfx/sfx_4.png | ド → thud / boom
+demo_results/test/crops/opm_sfx/sfx_5.png | ! → surprise / shock
