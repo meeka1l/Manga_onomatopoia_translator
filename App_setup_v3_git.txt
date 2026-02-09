@@ -1,0 +1,262 @@
+App setup v3 (Git Workflow)
+# ===== CELL 1: Check GPU =====
+!nvidia-smi
+
+# ===== CELL 2: Setup Environment (Clone Code + Link Drive) =====
+import os
+import sys
+from google.colab import drive
+
+# --- CONFIGURATION ---
+GITHUB_REPO_URL = "https://github.com/meeka1l/Manga_onomatopoia_translator.git"
+REPO_NAME = "Manga_onomatopoia_translator" 
+DRIVE_PROJECT_ROOT = "/content/drive/MyDrive/COO-Comic-Onomatopoeia-main"
+# ---------------------
+
+# 1. Mount Drive (for Data/Weights only)
+if not os.path.exists('/content/drive'):
+    print("Mounting Google Drive...")
+    drive.mount('/content/drive')
+
+# 2. Clone Code
+if not os.path.exists(REPO_NAME):
+    print(f"Cloning {GITHUB_REPO_URL}...")
+    !git clone {GITHUB_REPO_URL}
+else:
+    %cd {REPO_NAME}
+    !git pull
+    %cd ..
+
+# 3. Enter Project Directory
+%cd {REPO_NAME}
+print(f"Working Directory: {os.getcwd()}")
+
+# 4. Symlink Data/Weights
+files_to_link = {
+    'weights': f'{DRIVE_PROJECT_ROOT}/weights',
+    'COO-data': f'{DRIVE_PROJECT_ROOT}/COO-data',
+    'ABCNetv2/ABCNetv2.pth': f'{DRIVE_PROJECT_ROOT}/ABCNetv2/ABCNetv2.pth',
+    'TRBA/TRBA_Rot+SAR.pth': f'{DRIVE_PROJECT_ROOT}/TRBA/TRBA_Rot+SAR.pth'
+}
+
+for local_path, drive_path in files_to_link.items():
+    if not os.path.exists(drive_path):
+        print(f"⚠️ Warning: Drive path not found: {drive_path}")
+        continue
+    
+    if os.path.exists(local_path):
+        if not os.path.islink(local_path):
+            print(f"ℹ️ {local_path} exists (not a link). Skipping.")
+        continue
+        
+    parent_dir = os.path.dirname(local_path)
+    if parent_dir and not os.path.exists(parent_dir):
+        os.makedirs(parent_dir)
+        
+    try:
+        os.symlink(drive_path, local_path)
+        print(f"✓ Linked {local_path} -> {drive_path}")
+    except Exception as e:
+        print(f"❌ Link error for {local_path}: {e}")
+
+!ls -la
+
+# ===== CELL 3: Install Dependencies =====
+!pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+!pip install 'git+https://github.com/facebookresearch/detectron2.git'
+!pip install opencv-python Shapely timm einops pyclipper scipy natsort lmdb pillow nltk fire tensorboard tqdm thop==0.0.31.post2005241907
+!pip install flask flask-cors pyngrok
+
+# Force reinstall rapidfuzz
+!pip install --upgrade --force-reinstall rapidfuzz
+
+# ===== CELL 4: ABCNetv2 Setup =====
+%cd ABCNetv2
+!python setup.py build develop
+%cd ..
+
+# ===== CELL 5: Flask Backend Server =====
+from flask import Flask, request, jsonify, send_from_directory
+from flask_cors import CORS
+from werkzeug.utils import secure_filename
+import os
+import json
+import re
+from rapidfuzz import process, fuzz
+import subprocess
+import tempfile
+import shutil
+import threading
+from pyngrok import ngrok
+import time
+
+app = Flask(__name__)
+CORS(app)
+
+# --- UPDATED PATHS FOR GIT WORKFLOW ---
+BASE_PATH = os.getcwd()  # /content/Manga_onomatopoia_translator
+UPLOAD_FOLDER = '/content/temp_uploads'
+OUTPUT_FOLDER = '/content/temp_outputs'
+SFX_DICT_PATH = os.path.join(BASE_PATH, 'TRBA', 'sfx_dict.json')
+
+os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+
+# Load Dictionary
+with open(SFX_DICT_PATH, 'r', encoding='utf-8') as f:
+    jp_to_en_dict = json.load(f)
+
+def normalize_sfx(sfx):
+    sfx = sfx.strip()
+    sfx = sfx.replace('〜', '~')
+    sfx = sfx.replace('…', '…')
+    sfx = sfx.replace('ー', '-')
+    sfx = re.sub(r'\s+', '', sfx)
+    sfx = re.sub(r'(.)\1+', r'\1', sfx)
+    return sfx
+
+@app.route('/health', methods=['GET'])
+def health():
+    return jsonify({'status': 'ok', 'message': 'Manga SFX Backend is running!'})
+
+@app.route('/process', methods=['POST'])
+def process_images():
+    try:
+        # Clear temp folders
+        for folder in [UPLOAD_FOLDER, OUTPUT_FOLDER]:
+            if os.path.exists(folder):
+                shutil.rmtree(folder)
+            os.makedirs(folder)
+
+        files = request.files.getlist('images')
+        if not files:
+            return jsonify({'error': 'No images provided'}), 400
+
+        print(f"📥 Received {len(files)} images")
+
+        for file in files:
+            filename = secure_filename(file.filename)
+            file.save(os.path.join(UPLOAD_FOLDER, filename))
+
+        # Step 1: Run ABCNetv2
+        print("🔍 Running ABCNetv2 detection...")
+        abc_result = subprocess.run(
+            ['python', 'ABCNetv2/demo/demo_copy.py',
+             '--config-file', 'ABCNetv2/configs/eval.yaml',
+             '--input', UPLOAD_FOLDER,
+             '--output', OUTPUT_FOLDER,
+             '--opts', 'MODEL.WEIGHTS', 'ABCNetv2/ABCNetv2.pth'],
+            cwd=BASE_PATH,
+            capture_output=True,
+            text=True
+        )
+
+        if abc_result.returncode != 0:
+            print(abc_result.stderr)
+            return jsonify({'error': f'ABCNetv2 failed: {abc_result.stderr}'}), 500
+
+        # Step 1b: Previews
+        annotated_images = sorted([
+            f for f in os.listdir(OUTPUT_FOLDER)
+            if f.lower().endswith(('.png', '.jpg', '.jpeg'))
+        ])
+        preview_images = annotated_images[:3]
+
+        # Step 2: Run TRBA
+        print("📝 Running TRBA recognition...")
+        crops_folder = os.path.join(OUTPUT_FOLDER, 'crops')
+
+        if not os.path.exists(crops_folder):
+            return jsonify({'error': 'No text detected in images'}), 400
+
+        crop_folders = [
+            os.path.join(crops_folder, d)
+            for d in os.listdir(crops_folder)
+            if os.path.isdir(os.path.join(crops_folder, d))
+        ]
+
+        trba_output_path = tempfile.mktemp(suffix='.txt')
+
+        for folder in crop_folders:
+            with open(trba_output_path, 'a') as f:
+                subprocess.run(
+                    ['python3', os.path.join(BASE_PATH, 'TRBA', 'demo.py'),
+                     '--model_name', 'TRBA',
+                     '--SARdecode',
+                     '--image_folder', folder,
+                     '--saved_model', os.path.join(BASE_PATH, 'TRBA', 'TRBA_Rot+SAR.pth'),
+                     '--char_set', os.path.join(BASE_PATH, 'COO-data', 'Onomatopoeia_train_char_set.txt')],
+                    stdout=f,
+                    stderr=subprocess.DEVNULL
+                )
+
+        # Step 3: Translate
+        print("🌐 Translating SFX...")
+        results = []
+
+        with open(trba_output_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if not line: continue
+                parts = line.split()
+                if len(parts) < 2: continue
+
+                image_path = parts[0]
+                jp_sfx = normalize_sfx(parts[1])
+
+                result = process.extractOne(jp_sfx, jp_to_en_dict.keys(), scorer=fuzz.ratio)
+                if result is None:
+                    en_sfx = "UNKNOWN"
+                else:
+                    match, score = result[0], result[1]
+                    en_sfx = jp_to_en_dict[match] if score >= 80 else "UNKNOWN"
+
+                results.append({
+                    'image': os.path.basename(image_path),
+                    'japanese': jp_sfx,
+                    'english': en_sfx
+                })
+
+        if os.path.exists(trba_output_path):
+            os.unlink(trba_output_path)
+
+        print(f"✅ Complete! Found {len(results)} SFX")
+        return jsonify({
+            'results': results,
+            'previews': preview_images
+        })
+
+    except Exception as e:
+        print(f"❌ Error: {str(e)}")
+        import traceback
+        traceback.print_exc()
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/temp_outputs/<path:filename>')
+def serve_output_image(filename):
+    return send_from_directory(OUTPUT_FOLDER, filename)
+
+# ===== CELL 6: Start Server =====
+ngrok_token = "37IRIez3s5HM2YQ1zjKCjVM8K6s_mXEdRTQPY1DzCTwtCLQv" # USER TOKEN
+ngrok.set_auth_token(ngrok_token)
+ngrok.kill()
+
+def run_flask():
+    app.run(host='0.0.0.0', port=5000, debug=False)
+
+flask_thread = threading.Thread(target=run_flask, daemon=True)
+flask_thread.start()
+
+time.sleep(2)
+public_url = ngrok.connect(5000)
+print('=' * 60)
+print(f'📡 Public URL: {public_url}')
+print('=' * 60)
+
+# Keep alive
+try:
+    while True:
+        time.sleep(1)
+except KeyboardInterrupt:
+    print('\n🛑 Shutting down...')
+    ngrok.kill()

@@ -9,8 +9,8 @@ from google.colab import drive
 # CONFIGURATION
 # ==========================================
 # Replace with your GitHub URL after you push the code
-GITHUB_REPO_URL = "https://github.com/YOUR_USERNAME/COO-Comic-Onomatopoeia.git"
-REPO_NAME = "COO-Comic-Onomatopoeia-main" # Folder name after cloning
+GITHUB_REPO_URL = "https://github.com/meeka1l/Manga_onomatopoia_translator.git"
+REPO_NAME = "Manga_onomatopoia_translator" # Folder name after cloning
 
 # Path to your project in Google Drive (where weights/data live)
 DRIVE_PROJECT_ROOT = "/content/drive/MyDrive/COO-Comic-Onomatopoeia-main"
