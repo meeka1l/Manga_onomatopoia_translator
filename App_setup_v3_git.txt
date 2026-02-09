@@ -1,4 +1,4 @@
-App setup v3 (Git Workflow)
+#App setup v3 (Git Workflow)
 # ===== CELL 1: Check GPU =====
 !nvidia-smi
 
